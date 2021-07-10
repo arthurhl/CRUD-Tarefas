@@ -1,24 +1,35 @@
-# crud
+<h1 align="center">
+CRUD de Tarefas
+</h1>
+
+<p align="center">
+  <img alt="Cachunimed" src="/src/assets/crud.png" width="100%">
+</p>
+
+
+<!-- <h2 align="center">
+
+</h2>
+
+<h4 align="center">
+
+</h4>
+
+<p align="center">
+  <img alt="" src="" width="100%">
+</p> -->
 
 ## Project setup
 ```
-yarn install
+npm i
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
