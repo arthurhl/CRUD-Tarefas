@@ -4,7 +4,7 @@
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #333;
 }
 
 .todo-item {
