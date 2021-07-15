@@ -4,11 +4,11 @@
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
   padding: 0;
-  background-color: #333;
+  background-color: rgb(255, 136, 136);
 }
 
 .todo-item {
-  background: #969090;
+  background: #f4f4f4;
   width: 40%;
   padding: 0.3% 0 0 1%;
   margin-left: 30%;
